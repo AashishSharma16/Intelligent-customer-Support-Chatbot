@@ -286,10 +286,8 @@ This project is released under the **MIT License**.
 
 ## Author
 
-**SNAYUSH Behera**
+**Aashish Sharma**
 
-Capstone Project
-
-Department of Computer Science & Engineering
+Department of Computer Science & Engineering AI/ML
 
 Lovely Professional University
